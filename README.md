@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Afonso!
-👨🏻‍💻 Computer Engineering student at [FEUP](https://www.fe.up.pt) - Faculty of Engineering, University of Porto<br/>
+👨🏻‍💻 Computer Engineering student at [FEUP](https://www.fe.up.pt) - Faculty of Engineering University of Porto<br/>
 🎓 Pursuing a **Bachelor’s in Informatics and Computing Engineering** (LEIC)<br/>
 🧠 Passionate about using technology to solve real-world problems and make systems smarter, safer, and more efficient<br/>
 🛡️ Interested in **Cybersecurity**, **Software Development**, **Automation**, and **Artificial Intelligence** (AI)<br/>
